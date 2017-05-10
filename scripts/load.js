@@ -1,11 +1,9 @@
 loader
   .add([
-      "assets/img/cat.png",
-      "assets/img/blob.png",
-      "assets/img/explorer.png"
+      "assets/img/tileset.png"
   ])
   .on("progress", loadProgressHandler)
-  .load(setup);
+  .load(setupSpriteSheet);
 
 function loadProgressHandler(loader, resource) {
     //Display the file 'url' loaded
@@ -15,7 +13,7 @@ function loadProgressHandler(loader, resource) {
 }
 
 // 'Setup' function will run when the image has loaded
-function setup() {
+/*function setup() {
 
     var cat = new Sprite(
         resources["assets/img/cat.png"].texture
@@ -31,5 +29,23 @@ function setup() {
 
 
     stage.addChild(cat);
+    renderer.render(stage);
+}
+*/
+
+function setupSpriteSheet() {
+    var texture = TextureCache["assets/img/tileset.png"];
+
+    var rectangle = new Rectangle(192, 128, 64, 64);
+
+    texture.frame = rectangle;
+
+    var rocket = new Sprite(texture);
+
+    rocket.x = 32;
+    rocket.y = 32;
+
+    stage.addChild(rocket);
+
     renderer.render(stage);
 }
