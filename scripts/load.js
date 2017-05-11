@@ -1,6 +1,8 @@
+
+
 loader
   .add([
-      "assets/img/tileset.png"
+      "assets/img/sprites.json"
   ])
   .on("progress", loadProgressHandler)
   .load(setupSpriteSheet);
@@ -33,19 +35,45 @@ function loadProgressHandler(loader, resource) {
 }
 */
 
+var dungeon, explorer, treasure, door, id;
+
 function setupSpriteSheet() {
-    var texture = TextureCache["assets/img/tileset.png"];
+    
+    var dungeonTexture = TextureCache["dungeon.png"];
+    dungeon = new Sprite(dungeonTexture);
+    stage.addChild(dungeon);
 
-    var rectangle = new Rectangle(192, 128, 64, 64);
+    //Loading ID
+    var id = resources["assets/img/sprites.json"].textures;
+    
+    explorer = new Sprite(id["explorer.png"]);
+    explorer.x = 68;
+    explorer.y = stage.height / 2 - explorer.height / 2;
+    stage.addChild(explorer);
 
-    texture.frame = rectangle;
+    treasure = new Sprite(id["treasure.png"]);
+    treasure.x = stage.width - treasure.width - 48;
+    treasure.y = stage.height / 2 - treasure.height / 2;
+    stage.addChild(treasure);
 
-    var rocket = new Sprite(texture);
+    door = new Sprite(id["door.png"]);
+    door.position.set(32,0);
 
-    rocket.x = 32;
-    rocket.y = 32;
+    var numOfBlobs = 6,
+        spacing = 48,
+        xOffset = 150;
 
-    stage.addChild(rocket);
+    for (var i = 0; i < numOfBlobs; i++) {
+
+        var blob = new Sprite(id["blob.png"]);
+
+        var x = spacing * i + xOffset;
+        var y = randomInt(0, stage.height - blob.height);
+
+        blob.position.set(x,y);
+
+        stage.addChild(blob);
+    }
 
     renderer.render(stage);
 }

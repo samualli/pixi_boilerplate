@@ -1,5 +1,5 @@
 //Create the renderer
-var renderer = autoDetectRenderer(256, 256);
+var renderer = autoDetectRenderer(512, 512);
 
 //Add the canvas to the HTML document
 document.body.appendChild(renderer.view);
