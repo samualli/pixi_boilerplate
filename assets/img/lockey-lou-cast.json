@@ -1,0 +1,460 @@
+{
+"frames": {
+	"LockeyLoo0001.png": {
+		"frame": {"x":275, "y":498, "w":54, "h":82},
+		"spriteSourceSize": {"x":0,"y":0,"w":54,"h":82},
+		"sourceSize": {"w":54,"h":82}
+	},
+	"LockeyLoo0002.png": {
+		"frame": {"x":605, "y":415, "w":54, "h":82},
+		"spriteSourceSize": {"x":0,"y":0,"w":54,"h":82},
+		"sourceSize": {"w":54,"h":82}
+	},
+	"LockeyLoo0003.png": {
+		"frame": {"x":605, "y":332, "w":54, "h":82},
+		"spriteSourceSize": {"x":0,"y":0,"w":54,"h":82},
+		"sourceSize": {"w":54,"h":82}
+	},
+	"LockeyLoo0004.png": {
+		"frame": {"x":605, "y":249, "w":54, "h":82},
+		"spriteSourceSize": {"x":0,"y":0,"w":54,"h":82},
+		"sourceSize": {"w":54,"h":82}
+	},
+	"LockeyLoo0005.png": {
+		"frame": {"x":605, "y":166, "w":54, "h":82},
+		"spriteSourceSize": {"x":0,"y":0,"w":54,"h":82},
+		"sourceSize": {"w":54,"h":82}
+	},
+	"LockeyLoo0006.png": {
+		"frame": {"x":605, "y":83, "w":54, "h":82},
+		"spriteSourceSize": {"x":0,"y":0,"w":54,"h":82},
+		"sourceSize": {"w":54,"h":82}
+	},
+	"LockeyLoo0007.png": {
+		"frame": {"x":605, "y":0, "w":54, "h":82},
+		"spriteSourceSize": {"x":0,"y":0,"w":54,"h":82},
+		"sourceSize": {"w":54,"h":82}
+	},
+	"LockeyLoo0008.png": {
+		"frame": {"x":550, "y":498, "w":54, "h":82},
+		"spriteSourceSize": {"x":0,"y":0,"w":54,"h":82},
+		"sourceSize": {"w":54,"h":82}
+	},
+	"LockeyLoo0009.png": {
+		"frame": {"x":550, "y":415, "w":54, "h":82},
+		"spriteSourceSize": {"x":0,"y":0,"w":54,"h":82},
+		"sourceSize": {"w":54,"h":82}
+	},
+	"LockeyLoo0010.png": {
+		"frame": {"x":550, "y":332, "w":54, "h":82},
+		"spriteSourceSize": {"x":0,"y":0,"w":54,"h":82},
+		"sourceSize": {"w":54,"h":82}
+	},
+	"LockeyLoo0011.png": {
+		"frame": {"x":550, "y":249, "w":54, "h":82},
+		"spriteSourceSize": {"x":0,"y":0,"w":54,"h":82},
+		"sourceSize": {"w":54,"h":82}
+	},
+	"LockeyLoo0012.png": {
+		"frame": {"x":550, "y":166, "w":54, "h":82},
+		"spriteSourceSize": {"x":0,"y":0,"w":54,"h":82},
+		"sourceSize": {"w":54,"h":82}
+	},
+	"LockeyLoo0013.png": {
+		"frame": {"x":550, "y":83, "w":54, "h":82},
+		"spriteSourceSize": {"x":0,"y":0,"w":54,"h":82},
+		"sourceSize": {"w":54,"h":82}
+	},
+	"LockeyLoo0014.png": {
+		"frame": {"x":550, "y":0, "w":54, "h":82},
+		"spriteSourceSize": {"x":0,"y":0,"w":54,"h":82},
+		"sourceSize": {"w":54,"h":82}
+	},
+	"LockeyLoo0015.png": {
+		"frame": {"x":495, "y":498, "w":54, "h":82},
+		"spriteSourceSize": {"x":0,"y":0,"w":54,"h":82},
+		"sourceSize": {"w":54,"h":82}
+	},
+	"LockeyLoo0016.png": {
+		"frame": {"x":495, "y":498, "w":54, "h":82},
+		"spriteSourceSize": {"x":0,"y":0,"w":54,"h":82},
+		"sourceSize": {"w":54,"h":82}
+	},
+	"LockeyLoo0017.png": {
+		"frame": {"x":495, "y":415, "w":54, "h":82},
+		"spriteSourceSize": {"x":0,"y":0,"w":54,"h":82},
+		"sourceSize": {"w":54,"h":82}
+	},
+	"LockeyLoo0018.png": {
+		"frame": {"x":495, "y":415, "w":54, "h":82},
+		"spriteSourceSize": {"x":0,"y":0,"w":54,"h":82},
+		"sourceSize": {"w":54,"h":82}
+	},
+	"LockeyLoo0019.png": {
+		"frame": {"x":495, "y":415, "w":54, "h":82},
+		"spriteSourceSize": {"x":0,"y":0,"w":54,"h":82},
+		"sourceSize": {"w":54,"h":82}
+	},
+	"LockeyLoo0020.png": {
+		"frame": {"x":495, "y":332, "w":54, "h":82},
+		"spriteSourceSize": {"x":0,"y":0,"w":54,"h":82},
+		"sourceSize": {"w":54,"h":82}
+	},
+	"LockeyLoo0021.png": {
+		"frame": {"x":495, "y":249, "w":54, "h":82},
+		"spriteSourceSize": {"x":0,"y":0,"w":54,"h":82},
+		"sourceSize": {"w":54,"h":82}
+	},
+	"LockeyLoo0022.png": {
+		"frame": {"x":495, "y":166, "w":54, "h":82},
+		"spriteSourceSize": {"x":0,"y":0,"w":54,"h":82},
+		"sourceSize": {"w":54,"h":82}
+	},
+	"LockeyLoo0023.png": {
+		"frame": {"x":495, "y":83, "w":54, "h":82},
+		"spriteSourceSize": {"x":0,"y":0,"w":54,"h":82},
+		"sourceSize": {"w":54,"h":82}
+	},
+	"LockeyLoo0024.png": {
+		"frame": {"x":495, "y":0, "w":54, "h":82},
+		"spriteSourceSize": {"x":0,"y":0,"w":54,"h":82},
+		"sourceSize": {"w":54,"h":82}
+	},
+	"LockeyLoo0025.png": {
+		"frame": {"x":440, "y":498, "w":54, "h":82},
+		"spriteSourceSize": {"x":0,"y":0,"w":54,"h":82},
+		"sourceSize": {"w":54,"h":82}
+	},
+	"LockeyLoo0026.png": {
+		"frame": {"x":440, "y":415, "w":54, "h":82},
+		"spriteSourceSize": {"x":0,"y":0,"w":54,"h":82},
+		"sourceSize": {"w":54,"h":82}
+	},
+	"LockeyLoo0027.png": {
+		"frame": {"x":440, "y":332, "w":54, "h":82},
+		"spriteSourceSize": {"x":0,"y":0,"w":54,"h":82},
+		"sourceSize": {"w":54,"h":82}
+	},
+	"LockeyLoo0028.png": {
+		"frame": {"x":440, "y":249, "w":54, "h":82},
+		"spriteSourceSize": {"x":0,"y":0,"w":54,"h":82},
+		"sourceSize": {"w":54,"h":82}
+	},
+	"LockeyLoo0029.png": {
+		"frame": {"x":440, "y":166, "w":54, "h":82},
+		"spriteSourceSize": {"x":0,"y":0,"w":54,"h":82},
+		"sourceSize": {"w":54,"h":82}
+	},
+	"LockeyLoo0030.png": {
+		"frame": {"x":440, "y":83, "w":54, "h":82},
+		"spriteSourceSize": {"x":0,"y":0,"w":54,"h":82},
+		"sourceSize": {"w":54,"h":82}
+	},
+	"LockeyLoo0031.png": {
+		"frame": {"x":440, "y":83, "w":54, "h":82},
+		"spriteSourceSize": {"x":0,"y":0,"w":54,"h":82},
+		"sourceSize": {"w":54,"h":82}
+	},
+	"LockeyLoo0032.png": {
+		"frame": {"x":440, "y":0, "w":54, "h":82},
+		"spriteSourceSize": {"x":0,"y":0,"w":54,"h":82},
+		"sourceSize": {"w":54,"h":82}
+	},
+	"LockeyLoo0033.png": {
+		"frame": {"x":440, "y":0, "w":54, "h":82},
+		"spriteSourceSize": {"x":0,"y":0,"w":54,"h":82},
+		"sourceSize": {"w":54,"h":82}
+	},
+	"LockeyLoo0034.png": {
+		"frame": {"x":385, "y":498, "w":54, "h":82},
+		"spriteSourceSize": {"x":0,"y":0,"w":54,"h":82},
+		"sourceSize": {"w":54,"h":82}
+	},
+	"LockeyLoo0035.png": {
+		"frame": {"x":385, "y":498, "w":54, "h":82},
+		"spriteSourceSize": {"x":0,"y":0,"w":54,"h":82},
+		"sourceSize": {"w":54,"h":82}
+	},
+	"LockeyLoo0036.png": {
+		"frame": {"x":385, "y":415, "w":54, "h":82},
+		"spriteSourceSize": {"x":0,"y":0,"w":54,"h":82},
+		"sourceSize": {"w":54,"h":82}
+	},
+	"LockeyLoo0037.png": {
+		"frame": {"x":385, "y":332, "w":54, "h":82},
+		"spriteSourceSize": {"x":0,"y":0,"w":54,"h":82},
+		"sourceSize": {"w":54,"h":82}
+	},
+	"LockeyLoo0038.png": {
+		"frame": {"x":385, "y":249, "w":54, "h":82},
+		"spriteSourceSize": {"x":0,"y":0,"w":54,"h":82},
+		"sourceSize": {"w":54,"h":82}
+	},
+	"LockeyLoo0039.png": {
+		"frame": {"x":385, "y":166, "w":54, "h":82},
+		"spriteSourceSize": {"x":0,"y":0,"w":54,"h":82},
+		"sourceSize": {"w":54,"h":82}
+	},
+	"LockeyLoo0040.png": {
+		"frame": {"x":385, "y":83, "w":54, "h":82},
+		"spriteSourceSize": {"x":0,"y":0,"w":54,"h":82},
+		"sourceSize": {"w":54,"h":82}
+	},
+	"LockeyLoo0041.png": {
+		"frame": {"x":385, "y":0, "w":54, "h":82},
+		"spriteSourceSize": {"x":0,"y":0,"w":54,"h":82},
+		"sourceSize": {"w":54,"h":82}
+	},
+	"LockeyLoo0042.png": {
+		"frame": {"x":330, "y":498, "w":54, "h":82},
+		"spriteSourceSize": {"x":0,"y":0,"w":54,"h":82},
+		"sourceSize": {"w":54,"h":82}
+	},
+	"LockeyLoo0043.png": {
+		"frame": {"x":330, "y":415, "w":54, "h":82},
+		"spriteSourceSize": {"x":0,"y":0,"w":54,"h":82},
+		"sourceSize": {"w":54,"h":82}
+	},
+	"LockeyLoo0044.png": {
+		"frame": {"x":330, "y":332, "w":54, "h":82},
+		"spriteSourceSize": {"x":0,"y":0,"w":54,"h":82},
+		"sourceSize": {"w":54,"h":82}
+	},
+	"LockeyLoo0045.png": {
+		"frame": {"x":330, "y":249, "w":54, "h":82},
+		"spriteSourceSize": {"x":0,"y":0,"w":54,"h":82},
+		"sourceSize": {"w":54,"h":82}
+	},
+	"LockeyLoo0046.png": {
+		"frame": {"x":330, "y":166, "w":54, "h":82},
+		"spriteSourceSize": {"x":0,"y":0,"w":54,"h":82},
+		"sourceSize": {"w":54,"h":82}
+	},
+	"LockeyLoo0047.png": {
+		"frame": {"x":330, "y":83, "w":54, "h":82},
+		"spriteSourceSize": {"x":0,"y":0,"w":54,"h":82},
+		"sourceSize": {"w":54,"h":82}
+	},
+	"LockeyLoo0048.png": {
+		"frame": {"x":330, "y":0, "w":54, "h":82},
+		"spriteSourceSize": {"x":0,"y":0,"w":54,"h":82},
+		"sourceSize": {"w":54,"h":82}
+	},
+	"LockeyLoo0049.png": {
+		"frame": {"x":605, "y":498, "w":54, "h":82},
+		"spriteSourceSize": {"x":0,"y":0,"w":54,"h":82},
+		"sourceSize": {"w":54,"h":82}
+	},
+	"LockeyLoo0050.png": {
+		"frame": {"x":275, "y":415, "w":54, "h":82},
+		"spriteSourceSize": {"x":0,"y":0,"w":54,"h":82},
+		"sourceSize": {"w":54,"h":82}
+	},
+	"LockeyLoo0051.png": {
+		"frame": {"x":275, "y":332, "w":54, "h":82},
+		"spriteSourceSize": {"x":0,"y":0,"w":54,"h":82},
+		"sourceSize": {"w":54,"h":82}
+	},
+	"LockeyLoo0052.png": {
+		"frame": {"x":275, "y":249, "w":54, "h":82},
+		"spriteSourceSize": {"x":0,"y":0,"w":54,"h":82},
+		"sourceSize": {"w":54,"h":82}
+	},
+	"LockeyLoo0053.png": {
+		"frame": {"x":275, "y":166, "w":54, "h":82},
+		"spriteSourceSize": {"x":0,"y":0,"w":54,"h":82},
+		"sourceSize": {"w":54,"h":82}
+	},
+	"LockeyLoo0054.png": {
+		"frame": {"x":275, "y":83, "w":54, "h":82},
+		"spriteSourceSize": {"x":0,"y":0,"w":54,"h":82},
+		"sourceSize": {"w":54,"h":82}
+	},
+	"LockeyLoo0055.png": {
+		"frame": {"x":275, "y":0, "w":54, "h":82},
+		"spriteSourceSize": {"x":0,"y":0,"w":54,"h":82},
+		"sourceSize": {"w":54,"h":82}
+	},
+	"LockeyLoo0056.png": {
+		"frame": {"x":220, "y":498, "w":54, "h":82},
+		"spriteSourceSize": {"x":0,"y":0,"w":54,"h":82},
+		"sourceSize": {"w":54,"h":82}
+	},
+	"LockeyLoo0057.png": {
+		"frame": {"x":220, "y":415, "w":54, "h":82},
+		"spriteSourceSize": {"x":0,"y":0,"w":54,"h":82},
+		"sourceSize": {"w":54,"h":82}
+	},
+	"LockeyLoo0058.png": {
+		"frame": {"x":220, "y":332, "w":54, "h":82},
+		"spriteSourceSize": {"x":0,"y":0,"w":54,"h":82},
+		"sourceSize": {"w":54,"h":82}
+	},
+	"LockeyLoo0059.png": {
+		"frame": {"x":220, "y":249, "w":54, "h":82},
+		"spriteSourceSize": {"x":0,"y":0,"w":54,"h":82},
+		"sourceSize": {"w":54,"h":82}
+	},
+	"LockeyLoo0060.png": {
+		"frame": {"x":220, "y":166, "w":54, "h":82},
+		"spriteSourceSize": {"x":0,"y":0,"w":54,"h":82},
+		"sourceSize": {"w":54,"h":82}
+	},
+	"LockeyLoo0061.png": {
+		"frame": {"x":220, "y":83, "w":54, "h":82},
+		"spriteSourceSize": {"x":0,"y":0,"w":54,"h":82},
+		"sourceSize": {"w":54,"h":82}
+	},
+	"LockeyLoo0062.png": {
+		"frame": {"x":220, "y":0, "w":54, "h":82},
+		"spriteSourceSize": {"x":0,"y":0,"w":54,"h":82},
+		"sourceSize": {"w":54,"h":82}
+	},
+	"LockeyLoo0063.png": {
+		"frame": {"x":165, "y":498, "w":54, "h":82},
+		"spriteSourceSize": {"x":0,"y":0,"w":54,"h":82},
+		"sourceSize": {"w":54,"h":82}
+	},
+	"LockeyLoo0064.png": {
+		"frame": {"x":165, "y":415, "w":54, "h":82},
+		"spriteSourceSize": {"x":0,"y":0,"w":54,"h":82},
+		"sourceSize": {"w":54,"h":82}
+	},
+	"LockeyLoo0065.png": {
+		"frame": {"x":165, "y":332, "w":54, "h":82},
+		"spriteSourceSize": {"x":0,"y":0,"w":54,"h":82},
+		"sourceSize": {"w":54,"h":82}
+	},
+	"LockeyLoo0066.png": {
+		"frame": {"x":165, "y":249, "w":54, "h":82},
+		"spriteSourceSize": {"x":0,"y":0,"w":54,"h":82},
+		"sourceSize": {"w":54,"h":82}
+	},
+	"LockeyLoo0067.png": {
+		"frame": {"x":165, "y":166, "w":54, "h":82},
+		"spriteSourceSize": {"x":0,"y":0,"w":54,"h":82},
+		"sourceSize": {"w":54,"h":82}
+	},
+	"LockeyLoo0068.png": {
+		"frame": {"x":165, "y":83, "w":54, "h":82},
+		"spriteSourceSize": {"x":0,"y":0,"w":54,"h":82},
+		"sourceSize": {"w":54,"h":82}
+	},
+	"LockeyLoo0069.png": {
+		"frame": {"x":165, "y":0, "w":54, "h":82},
+		"spriteSourceSize": {"x":0,"y":0,"w":54,"h":82},
+		"sourceSize": {"w":54,"h":82}
+	},
+	"LockeyLoo0070.png": {
+		"frame": {"x":110, "y":498, "w":54, "h":82},
+		"spriteSourceSize": {"x":0,"y":0,"w":54,"h":82},
+		"sourceSize": {"w":54,"h":82}
+	},
+	"LockeyLoo0071.png": {
+		"frame": {"x":110, "y":415, "w":54, "h":82},
+		"spriteSourceSize": {"x":0,"y":0,"w":54,"h":82},
+		"sourceSize": {"w":54,"h":82}
+	},
+	"LockeyLoo0072.png": {
+		"frame": {"x":110, "y":332, "w":54, "h":82},
+		"spriteSourceSize": {"x":0,"y":0,"w":54,"h":82},
+		"sourceSize": {"w":54,"h":82}
+	},
+	"LockeyLoo0073.png": {
+		"frame": {"x":110, "y":249, "w":54, "h":82},
+		"spriteSourceSize": {"x":0,"y":0,"w":54,"h":82},
+		"sourceSize": {"w":54,"h":82}
+	},
+	"LockeyLoo0074.png": {
+		"frame": {"x":110, "y":166, "w":54, "h":82},
+		"spriteSourceSize": {"x":0,"y":0,"w":54,"h":82},
+		"sourceSize": {"w":54,"h":82}
+	},
+	"LockeyLoo0075.png": {
+		"frame": {"x":110, "y":83, "w":54, "h":82},
+		"spriteSourceSize": {"x":0,"y":0,"w":54,"h":82},
+		"sourceSize": {"w":54,"h":82}
+	},
+	"LockeyLoo0076.png": {
+		"frame": {"x":110, "y":0, "w":54, "h":82},
+		"spriteSourceSize": {"x":0,"y":0,"w":54,"h":82},
+		"sourceSize": {"w":54,"h":82}
+	},
+	"LockeyLoo0077.png": {
+		"frame": {"x":55, "y":498, "w":54, "h":82},
+		"spriteSourceSize": {"x":0,"y":0,"w":54,"h":82},
+		"sourceSize": {"w":54,"h":82}
+	},
+	"LockeyLoo0078.png": {
+		"frame": {"x":55, "y":415, "w":54, "h":82},
+		"spriteSourceSize": {"x":0,"y":0,"w":54,"h":82},
+		"sourceSize": {"w":54,"h":82}
+	},
+	"LockeyLoo0079.png": {
+		"frame": {"x":55, "y":332, "w":54, "h":82},
+		"spriteSourceSize": {"x":0,"y":0,"w":54,"h":82},
+		"sourceSize": {"w":54,"h":82}
+	},
+	"LockeyLoo0080.png": {
+		"frame": {"x":55, "y":249, "w":54, "h":82},
+		"spriteSourceSize": {"x":0,"y":0,"w":54,"h":82},
+		"sourceSize": {"w":54,"h":82}
+	},
+	"LockeyLoo0081.png": {
+		"frame": {"x":55, "y":166, "w":54, "h":82},
+		"spriteSourceSize": {"x":0,"y":0,"w":54,"h":82},
+		"sourceSize": {"w":54,"h":82}
+	},
+	"LockeyLoo0082.png": {
+		"frame": {"x":55, "y":83, "w":54, "h":82},
+		"spriteSourceSize": {"x":0,"y":0,"w":54,"h":82},
+		"sourceSize": {"w":54,"h":82}
+	},
+	"LockeyLoo0083.png": {
+		"frame": {"x":55, "y":0, "w":54, "h":82},
+		"spriteSourceSize": {"x":0,"y":0,"w":54,"h":82},
+		"sourceSize": {"w":54,"h":82}
+	},
+	"LockeyLoo0084.png": {
+		"frame": {"x":0, "y":498, "w":54, "h":82},
+		"spriteSourceSize": {"x":0,"y":0,"w":54,"h":82},
+		"sourceSize": {"w":54,"h":82}
+	},
+	"LockeyLoo0085.png": {
+		"frame": {"x":0, "y":415, "w":54, "h":82},
+		"spriteSourceSize": {"x":0,"y":0,"w":54,"h":82},
+		"sourceSize": {"w":54,"h":82}
+	},
+	"LockeyLoo0086.png": {
+		"frame": {"x":0, "y":332, "w":54, "h":82},
+		"spriteSourceSize": {"x":0,"y":0,"w":54,"h":82},
+		"sourceSize": {"w":54,"h":82}
+	},
+	"LockeyLoo0087.png": {
+		"frame": {"x":0, "y":249, "w":54, "h":82},
+		"spriteSourceSize": {"x":0,"y":0,"w":54,"h":82},
+		"sourceSize": {"w":54,"h":82}
+	},
+	"LockeyLoo0088.png": {
+		"frame": {"x":0, "y":166, "w":54, "h":82},
+		"spriteSourceSize": {"x":0,"y":0,"w":54,"h":82},
+		"sourceSize": {"w":54,"h":82}
+	},
+	"LockeyLoo0089.png": {
+		"frame": {"x":0, "y":83, "w":54, "h":82},
+		"spriteSourceSize": {"x":0,"y":0,"w":54,"h":82},
+		"sourceSize": {"w":54,"h":82}
+	},
+	"LockeyLoo0090.png": {
+		"frame": {"x":0, "y":0, "w":54, "h":82},
+		"spriteSourceSize": {"x":0,"y":0,"w":54,"h":82},
+		"sourceSize": {"w":54,"h":82}
+	}
+
+},
+"meta": {
+	"image": "lockey-lou-cast.png",
+	"size": {"w": 660, "h": 581},
+	"scale": "1"
+}
+}
