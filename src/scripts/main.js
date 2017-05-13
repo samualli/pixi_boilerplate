@@ -1,3 +1,12 @@
+function main_createMap(form){
+    const width = form.width.value,
+          height = form.height.value,
+          tile_size = form.tile_size.value;
+
+    console.log(width + ' ' + height + ' ' + tile_size);
+    return false;
+}
+
 //Create the renderer
 var renderer = autoDetectRenderer(512, 512);
 
