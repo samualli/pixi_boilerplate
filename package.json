@@ -1,0 +1,23 @@
+{
+  "name": "ftk_map-builder",
+  "version": "1.0.0",
+  "description": "Web GUI for outputting Map arrays for PIXI",
+  "main": "package.json",
+  "dependencies": {
+    "gulp": "^3.9.1"
+  },
+  "devDependencies": {
+    "gulp-concat": "^2.6.1",
+    "gulp-rename": "^1.2.2",
+    "gulp-uglify": "^2.1.2"
+  },
+  "scripts": {
+    "test": "gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "/Users/samuelli/Documents/_projects/_git/PixiTile/mapBuilder/"
+  },
+  "author": "Samuel Li",
+  "license": "MIT"
+}
