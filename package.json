@@ -1,7 +1,7 @@
 {
-  "name": "ftk_map-builder",
+  "name": "PIXI_boilerplate",
   "version": "1.0.0",
-  "description": "Web GUI for outputting Map arrays for PIXI",
+  "description": "PIXI Boiler Plate",
   "main": "package.json",
   "dependencies": {
     "gulp": "^3.9.1"
